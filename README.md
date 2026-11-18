@@ -2,7 +2,6 @@
 
 ```sh
 brew tap monk-studio/tap
-brew trust monk-studio/tap
 brew install --cask monk-studio/tap/<name>
 ```
 
